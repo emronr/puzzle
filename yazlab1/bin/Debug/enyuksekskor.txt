@@ -1,0 +1,11 @@
+90-onur
+80-mehmet
+80-emre
+90-kayhan
+90-mehmet
+90-kayhan
+95-hocam
+90-mehmet
+
+100-EMRE
+75-mete

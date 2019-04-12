@@ -1,0 +1,11 @@
+C:\Users\emre9\Desktop\YAZLAB2- PROJELER\yazlab1\yazlab1\bin\Debug\yazlab1.exe.config
+C:\Users\emre9\Desktop\YAZLAB2- PROJELER\yazlab1\yazlab1\bin\Debug\yazlab1.exe
+C:\Users\emre9\Desktop\YAZLAB2- PROJELER\yazlab1\yazlab1\bin\Debug\yazlab1.pdb
+C:\Users\emre9\Desktop\YAZLAB2- PROJELER\yazlab1\yazlab1\obj\Debug\yazlab1.csprojAssemblyReference.cache
+C:\Users\emre9\Desktop\YAZLAB2- PROJELER\yazlab1\yazlab1\obj\Debug\yazlab1.AnaEkran.resources
+C:\Users\emre9\Desktop\YAZLAB2- PROJELER\yazlab1\yazlab1\obj\Debug\yazlab1.Properties.Resources.resources
+C:\Users\emre9\Desktop\YAZLAB2- PROJELER\yazlab1\yazlab1\obj\Debug\yazlab1.csproj.GenerateResource.cache
+C:\Users\emre9\Desktop\YAZLAB2- PROJELER\yazlab1\yazlab1\obj\Debug\yazlab1.csproj.CoreCompileInputs.cache
+C:\Users\emre9\Desktop\YAZLAB2- PROJELER\yazlab1\yazlab1\obj\Debug\yazlab1.exe
+C:\Users\emre9\Desktop\YAZLAB2- PROJELER\yazlab1\yazlab1\obj\Debug\yazlab1.pdb
+C:\Users\emre9\Desktop\YAZLAB2- PROJELER\yazlab1\yazlab1\obj\Debug\yazlab1.Form2.resources
